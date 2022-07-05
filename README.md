@@ -5,12 +5,16 @@ Responsive table with Pagination
 <br>
 
 links for CSS and JS
+
 <br>
 Bootstrap CSS
 
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 Data table CSS and JS
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
 
 
 <br><br>
