@@ -2,6 +2,9 @@
 Responsive table with Pagination
 
 
+<br>
+
+links for CSS and JS
 
 
 
